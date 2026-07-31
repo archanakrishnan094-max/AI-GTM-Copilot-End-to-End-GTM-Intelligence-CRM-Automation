@@ -203,7 +203,7 @@ assets/
 
 ## Complete Workflow
 
-(Add workflow screenshot)
+[https://github.com/archanakrishnan094-max/AI-GTM-Copilot-End-to-End-GTM-Intelligence-CRM-Automation/blob/main/screenshots/01-%20Final_Workflow.png.png]
 
 ---
 
