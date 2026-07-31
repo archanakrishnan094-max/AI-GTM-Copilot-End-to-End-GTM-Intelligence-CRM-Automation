@@ -314,7 +314,7 @@ MIT License
 
 **Archana Krishnan**
 
- AI Workflow Builder
+ AI Workflow Builder | AI Automation | GTM Engineering | Workflow Automation Specialist
 
 Interested in:
 
