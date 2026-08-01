@@ -207,9 +207,9 @@ assets/
 
 ---
 
-## GTM Discovery Report
+## GTM Discovery Agent
 
-(Add screenshot)
+[https://github.com/archanakrishnan094-max/AI-GTM-Copilot-End-to-End-GTM-Intelligence-CRM-Automation/blob/main/screenshots/04_AI_GTM_Discovery_Agent_node.png.png]
 
 ---
 
