@@ -215,7 +215,7 @@ assets/
 
 ## Lead Scoring
 
-(Add screenshot)
+[https://github.com/archanakrishnan094-max/AI-GTM-Copilot-End-to-End-GTM-Intelligence-CRM-Automation/blob/main/screenshots/05_Lead_Score_node.png.png]
 
 ---
 
