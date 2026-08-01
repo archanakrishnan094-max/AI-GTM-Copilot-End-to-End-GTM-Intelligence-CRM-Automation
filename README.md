@@ -240,7 +240,7 @@ assets/
 
 ## Excel Report
 
-(Add screenshot)
+[https://github.com/archanakrishnan094-max/AI-GTM-Copilot-End-to-End-GTM-Intelligence-CRM-Automation/blob/main/screenshots/10_Export_GTM_Report.png.png]
 
 ---
 
