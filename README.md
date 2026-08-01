@@ -242,6 +242,8 @@ assets/
 
 [https://github.com/archanakrishnan094-max/AI-GTM-Copilot-End-to-End-GTM-Intelligence-CRM-Automation/blob/main/screenshots/10_Export_GTM_Report.png.png]
 
+[https://github.com/archanakrishnan094-max/AI-GTM-Copilot-End-to-End-GTM-Intelligence-CRM-Automation/blob/main/screenshots/11_Export_Outreach_Report.png.png]
+
 ---
 
 # 🔄 Workflow Outputs
@@ -326,9 +328,9 @@ Interested in:
 * Workflow Automation
 * CRM Automation
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: [www.linkedin.com/in/archana-krishnan-303bb681]
 
-GitHub: *(Add your GitHub profile)*
+GitHub: [https://github.com/archanakrishnan094-max]
 
 ---
 
