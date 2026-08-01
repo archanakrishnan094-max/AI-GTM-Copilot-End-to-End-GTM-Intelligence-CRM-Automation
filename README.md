@@ -233,7 +233,7 @@ assets/
 
 ## HubSpot CRM
 
-(Add screenshot)
+[https://github.com/archanakrishnan094-max/AI-GTM-Copilot-End-to-End-GTM-Intelligence-CRM-Automation/blob/main/screenshots/07_HubSpot_CRM%20.png.png]
 
 ---
 
