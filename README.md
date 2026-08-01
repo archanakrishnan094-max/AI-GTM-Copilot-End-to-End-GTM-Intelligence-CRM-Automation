@@ -221,7 +221,7 @@ assets/
 
 ## Personalized Outreach
 
-(Add screenshot)
+[https://github.com/archanakrishnan094-max/AI-GTM-Copilot-End-to-End-GTM-Intelligence-CRM-Automation/blob/main/screenshots/06_AI_Sales_Sequence_Agent_Node.png.png]
 
 ---
 
